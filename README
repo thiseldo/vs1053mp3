@@ -1,0 +1,12 @@
+VS1053B MP3 Decoder library for Arduino.
+
+This is based on sample code form http://www.sparkfun.com.
+
+The MP3 shield used is the original Sparkfun MP3 shield that appears to be no longer available. It has been replaced by one with a builtin micro SD card slot.
+This library has only been tested with the original shield.
+
+This library is supplied as-is with no warranty that it will work with your shield.
+
+The code is still a work-in-progress and is available here for testing.
+
+
